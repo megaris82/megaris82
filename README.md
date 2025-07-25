@@ -1,8 +1,8 @@
 # Hi there 👋
 
 I'm a student passionate about technology, with skills in **Java**, **C**, and **Front-End Development**.  
-When I'm not coding, I'm most likely gaming 🎮 — mainly playing real-time strategy games that revolve around  
-quick, analytical thinking and teamwork — skills that nicely transfer over to coding and the job sector!
+When I'm not coding, I'm most likely gaming 🎮, mainly playing real-time strategy games that revolve around  
+quick, analytical thinking and teamwork, skills that nicely transfer over to coding and the job sector!
 
 ## Fun Facts
 - Participated in two Erasmus volunteering short exchanges in France and Germany 🌍  
