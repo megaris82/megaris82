@@ -14,7 +14,6 @@ quick, analytical thinking and teamwork, skills that nicely transfer over to cod
 - Exploring new gadgets and consumer tech
 
 ## Social Links
-- [Instagram](https://www.instagram.com/jerry_meg_)
 - [LinkedIn](https://www.linkedin.com/in/gerasimos-megaris-1ab075259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Emails 
